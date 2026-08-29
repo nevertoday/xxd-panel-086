@@ -4,7 +4,7 @@
 
 # 🦁 XXD Panel 086
 
-### يضغط الصورة إلى مسرح مصغّر يدوي داخل فراغ واسع
+### يختزل الصورة إلى طباعة حريرية محدودة الألوان تقودها المساحات البيضاء
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
@@ -328,7 +328,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-082](https://github.com/nevertoday/xxd-panel-082)** | حقل مائي غير منتظم · Naïve + Wonky · Isometric／2.5D · محيط طفولي · لون حي · بطل مجسّم |
 | **[xxd-panel-083](https://github.com/nevertoday/xxd-panel-083)** | خربشة Ugly-cute · محيط Wonky · عدم دقة مضبوطة · بطل فكاهي واحد · شمع خشن · قليل وغريب وأخرق ودقيق |
 | **[xxd-panel-084](https://github.com/nevertoday/xxd-panel-084)** | رسم حضري بسيط · هيكل هندسي · تنقيط كثافي · خطوط منظور قائدة · ألوان محدودة · فراغ شعري |
-| **[xxd-panel-086](https://github.com/nevertoday/xxd-panel-086)** | مسرح مصغّر يدوي · غلاف مجسّم قابل للاقتناء · طين ولباد · ورق مقصوص وخيط · ملمس مطفأ · فراغ فني |
+| **[xxd-panel-086](https://github.com/nevertoday/xxd-panel-086)** | حداثة منتصف القرن · طباعة محدودة الحبر · هندسة الظلال · فرشاة جافة · حبر منقطع · فراغ ذو معنى |
 <!-- xxd-panel-catalog:end -->
 
 ## عن XXD

@@ -4,7 +4,7 @@
 
 # 🦁 XXD Panel 086
 
-### 사진을 넓은 여백 속 손수 만든 미니어처 무대로
+### 사진을 여백 중심의 제한색 스크린 프린트로
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
@@ -328,7 +328,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | **[xxd-panel-082](https://github.com/nevertoday/xxd-panel-082)** | 불규칙 수채 색역 · Naïve + Wonky · Isometric／2.5D · 소박한 윤곽 · 생생한 색 · 입체 주인공 |
 | **[xxd-panel-083](https://github.com/nevertoday/xxd-panel-083)** | Ugly-cute 낙서 · Wonky 윤곽 · 통제된 어긋남 · 하나의 코믹 주인공 · 거친 크레용 · 적고 이상하고 서툴고 정확하게 |
 | **[xxd-panel-084](https://github.com/nevertoday/xxd-panel-084)** | 미니멀 도시 선묘 · 기하 골격 · 밀도 점묘 · 원근 리딩 라인 · 제한 색상 · 시적 여백 |
-| **[xxd-panel-086](https://github.com/nevertoday/xxd-panel-086)** | 수공 미니어처 무대 · 소장형 입체 표지 · 점토와 펠트 · 손으로 자른 종이와 끈 · 무광 촉감 · 예술적 여백 |
+| **[xxd-panel-086](https://github.com/nevertoday/xxd-panel-086)** | 미드센추리 모더니즘 · 제한색 스크린 프린트 · 실루엣 기하 · 드라이 브러시 · 끊긴 잉크 · 의미 있는 여백 |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD 소개
