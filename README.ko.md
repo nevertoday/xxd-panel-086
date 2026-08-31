@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 086
+# 🦁 XXD Panel 086｜여백의 판화 저널
 
 ### 사진을 여백 중심의 제한색 스크린 프린트로
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 086
+# 🦁 XXD Panel 086｜留白版画志
 
 ### 把照片压缩成一幅留白先行的限色丝网版画
 

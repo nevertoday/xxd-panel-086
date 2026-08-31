@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 086
+# 🦁 XXD Panel 086｜Negative-Space Print Journal
 
 ### Compress the photograph into a whitespace-led limited-ink screen print
 

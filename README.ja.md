@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 086
+# 🦁 XXD Panel 086｜余白の版画手帳
 
 ### 写真を大きな余白に置かれた手作りの微縮舞台へ
 
