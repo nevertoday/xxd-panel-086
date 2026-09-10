@@ -47,6 +47,15 @@ Mechanical filters keep too much, while template retro posters fill the page wit
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -65,22 +74,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | It reads subject, contour, pose, direction, space, and narrative focus, keeping only what makes the image hold together |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-analyse subject, contour, pose, direction, space, and narrative focus → retain 3–5 decisive facts → rebuild with silhouette, geometry, and concise colour fields → compress source colour into 2–4 spot inks → add dry-brush, brayer drag, broken ink, and uneven coverage → organise one focus, one direction, and meaningful whitespace
-```
-
-## Recognisable finished traits
-
-- The subject is rebuilt with silhouettes, geometric shapes, concise colour blocks, and only a few essential environmental forms.
-- Horizontal drag, dry-brush gaps, broken ink, and uneven coverage remain visible; smooth vectors and digital gradients do not.
-- Two to four vivid spot inks preserve the source's colour memory over a quiet paper-like base.
-- One clear focus and one main direction anchor an asymmetric composition; whitespace carries distance, light, silence, or time.
-- Narrow, restrained modernist type follows the source brief and participates in the visual axis instead of becoming a caption strip.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-086-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
